@@ -1,0 +1,10 @@
+Title=Tianjin2
+Max_Job=30
+len=150
+FQ_split_count=2000000
+Minimum_sample=0
+Identity_percentage=96
+Identity_Support=100
+Temp=/sc/arion/projects/weijiaTemp/Sun/Tianjin2
+Minimum_support_read=10
+Clean=No

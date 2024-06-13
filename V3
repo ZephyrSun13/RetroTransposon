@@ -1,0 +1,4 @@
+
+1. add bam files as initial samples lists;
+2. remove tmp files when summarizing normal sample counts;
+
